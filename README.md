@@ -1,7 +1,7 @@
 # Protein Ligand binding residue prediction using Token classification and Ligand
----
+
 ## Abstract
----
+
 단백질은 생체 내에서 다양한 생리학적 과정에 필수적으로 참여하며, 이를 위해 다른 분자들과 상호작용한다.
 
 상호작용에 참여하는 단백질 내 리간드가 결합하는 잔기를 찾는 것은 분자 간 상호작용의 메커니즘을 이해하고, 이는 약물 발견 및 설계에 대한 통찰력을 제공한다.
