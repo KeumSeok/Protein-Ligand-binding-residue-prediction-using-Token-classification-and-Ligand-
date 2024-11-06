@@ -1,4 +1,4 @@
-# Protein Ligand binding residue prediction using Token classification and Ligand
+# Enhanced Residue Embeddings and Ligand-Intergrated model for Prediction of Accurate Protein-Ligand binding Residue
 
 ## Abstract
 
