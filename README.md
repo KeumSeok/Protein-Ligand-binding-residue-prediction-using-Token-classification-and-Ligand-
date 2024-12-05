@@ -1,4 +1,4 @@
-# Enhanced Residue Embeddings and Ligand-Intergrated model for Prediction of Accurate Protein-Ligand binding Residue
+# Enhanced Residue Embeddings and Ligand-Integrated model for Prediction of Accurate Protein-Ligand binding Residue
 
 ## Abstract
 
